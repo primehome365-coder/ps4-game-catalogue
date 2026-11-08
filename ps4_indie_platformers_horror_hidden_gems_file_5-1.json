@@ -1,0 +1,3797 @@
+[
+  [
+    "Celeste",
+    {
+      "name": "Celeste",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png",
+      "href": "https://store.playstation.com/en-us/product/UP2120-CUSA11302_00-CELESTEXXCELESTE",
+      "uuid": "UP2120-CUSA11302_00-CELESTEXXCELESTE",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Cuphead",
+    {
+      "name": "Cuphead",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
+      "href": "https://store.playstation.com/en-us/product/UP8062-CUSA20499_00-CUPHEAD000000000",
+      "uuid": "UP8062-CUSA20499_00-CUPHEAD000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Dead Cells (PS4 & PS5)",
+    {
+      "name": "Dead Cells (PS4 & PS5)",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/cdn/UP4016/CUSA11253_00/ZB7o35lDBOMRJ5ErVtx9OUJP88jSmC2R.png",
+      "href": "https://store.playstation.com/en-us/product/UP4016-PPSA15552_00-DEADCELLSPS5SIEA",
+      "uuid": "UP4016-PPSA15552_00-DEADCELLSPS5SIEA",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hades",
+    {
+      "name": "Hades",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/0517/9AcM3vy5t77zPiJyKHwRfnNT.png",
+      "href": "https://store.playstation.com/en-us/product/UP2125-PPSA03355_00-3466019145463410",
+      "uuid": "UP2125-PPSA03355_00-3466019145463410",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Binding of Isaac: Rebirth",
+    {
+      "name": "The Binding of Isaac: Rebirth",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2103/CUSA00792_00/DxIB6twEsVkYanltsoOLP3ZVfBrHbhub.png",
+      "href": "https://store.playstation.com/en-us/product/UP2103-CUSA00792_00-BINDINGOFISAACP4",
+      "uuid": "UP2103-CUSA00792_00-BINDINGOFISAACP4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Enter the Gungeon",
+    {
+      "name": "Enter the Gungeon",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1205/7iRqnxpwQtVuEFuOjBAW1hFz.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA01608_00-0000000000000000",
+      "uuid": "UP3643-CUSA01608_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Exit the Gungeon",
+    {
+      "name": "Exit the Gungeon",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0222/Mp8jYUcCeEoOV2hTDHuicRwl.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA23188_00-EXITTHEGUNGEONUS",
+      "uuid": "UP3643-CUSA23188_00-EXITTHEGUNGEONUS",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Risk of Rain",
+    {
+      "name": "Risk of Rain",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP0341/CUSA04192_00/d9nsqQlPDAD1TiUWWNcljqWH2WwGbGUT.png",
+      "href": "https://store.playstation.com/en-us/product/UP0341-CUSA04192_00-RISKOFRAIN000000",
+      "uuid": "UP0341-CUSA04192_00-RISKOFRAIN000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Risk of Rain 2",
+    {
+      "name": "Risk of Rain 2",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2220/RfRnyMuPPdQraj09cluhX5yZ.png",
+      "href": "https://store.playstation.com/en-us/product/UP0292-PPSA06516_00-RISKOFRAIN2SIEA0",
+      "uuid": "UP0292-PPSA06516_00-RISKOFRAIN2SIEA0",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Slay the Spire",
+    {
+      "name": "Slay the Spire",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/cdn/UP3864/CUSA15289_00/M5AcBZuhiNtN0pzHyxw3uPhdk5HlU11P.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-CUSA15289_00-SLAYTHESPIREGAME",
+      "uuid": "UP3864-CUSA15289_00-SLAYTHESPIREGAME",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Witness",
+    {
+      "name": "The Witness",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/cdn/UP2124/CUSA00498_00/awvzBy4CY2NKeps2omt7SC8lxJNozWCe.png",
+      "href": "https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4",
+      "uuid": "UP2124-CUSA00498_00-THEWITNESSPS4PS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Braid, Anniversary Edition",
+    {
+      "name": "Braid, Anniversary Edition",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1821/00117cec50380c43eb6f919b0150d4ece5c480f832e5c07c.png",
+      "href": "https://store.playstation.com/en-us/product/UP2124-CUSA12312_00-BRAIDANNIVERSARY",
+      "uuid": "UP2124-CUSA12312_00-BRAIDANNIVERSARY",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "FEZ",
+    {
+      "name": "FEZ",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/cdn/UP4427/CUSA00383_00/jp8r51tQRgWlj1VXzfYlgyrXQkhzXK93.png",
+      "href": "https://store.playstation.com/en-us/product/UP4427-CUSA00383_00-FEZTHEGAMEPOLYTR",
+      "uuid": "UP4427-CUSA00383_00-FEZTHEGAMEPOLYTR",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Swapper",
+    {
+      "name": "The Swapper",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP4395/CUSA00315_00/irvdG1iNppzqaLdwaaPEqB4l4h57qPwE.png",
+      "href": "https://store.playstation.com/en-us/product/UP4395-CUSA00315_00-THESWAPPER000000",
+      "uuid": "UP4395-CUSA00315_00-THESWAPPER000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Super Meat Boy",
+    {
+      "name": "Super Meat Boy",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP1055/CUSA02845_00/vo6mQBHf4KPJTTqisnmnhd3akUW7Yf4L.png",
+      "href": "https://store.playstation.com/en-us/product/UP1055-CUSA02845_00-SUPERMEATBOY0000",
+      "uuid": "UP1055-CUSA02845_00-SUPERMEATBOY0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Spelunky",
+    {
+      "name": "Spelunky",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202109/2907/zMDbJHMRWEA3dfC3XRqaB7n8.png",
+      "href": "https://store.playstation.com/en-us/product/UP4407-CUSA00493_00-SPELUNKY00000000",
+      "uuid": "UP4407-CUSA00493_00-SPELUNKY00000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Spelunky 2",
+    {
+      "name": "Spelunky 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0812/K3Rvr0agVdm8ZPgkxIzOfMU6.png",
+      "href": "https://store.playstation.com/en-us/product/UP4407-PPSA05580_00-SPELUNKY20000000",
+      "uuid": "UP4407-PPSA05580_00-SPELUNKY20000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Shovel Knight: Treasure Trove",
+    {
+      "name": "Shovel Knight: Treasure Trove",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01867_00/3/i_1a7f929cf55e4acffb7c4f8be7fd262ad3f8ff1a48343c96495c2251026024c0/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP2200-CUSA01867_00-SHOVELKNIGHT0001",
+      "uuid": "UP2200-CUSA01867_00-SHOVELKNIGHT0001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Axiom Verge",
+    {
+      "name": "Axiom Verge",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2149/CUSA01230_00/2NhqgCY2IAAWW1PvMyc9IL08NmBnZ3zQ.png",
+      "href": "https://store.playstation.com/en-us/product/UP2149-CUSA01230_00-AXIOMVERGE001PS4",
+      "uuid": "UP2149-CUSA01230_00-AXIOMVERGE001PS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Axiom Verge 2",
+    {
+      "name": "Axiom Verge 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1318/1xYmYuwu87BZ9wLCl79iEh28.png",
+      "href": "https://store.playstation.com/en-us/product/UP2149-PPSA05172_00-8610758557647620",
+      "uuid": "UP2149-PPSA05172_00-8610758557647620",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Guacamelee! Super Turbo Championship Edition",
+    {
+      "name": "Guacamelee! Super Turbo Championship Edition",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2045/CUSA00151_00/9fsJoKVAvo7dmnV2OyqjYxwTP5D3cdlw.png",
+      "href": "https://store.playstation.com/en-us/product/UP2045-CUSA00151_00-GUACSTCE00000000",
+      "uuid": "UP2045-CUSA00151_00-GUACSTCE00000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Guacamelee! 2",
+    {
+      "name": "Guacamelee! 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2045/CUSA07098_00/PJ3kbkLNFjqZCK0qSQK0dvKW480LU6B1.png",
+      "href": "https://store.playstation.com/en-us/product/UP2045-CUSA07098_00-GUACAMELEETWOOOO",
+      "uuid": "UP2045-CUSA07098_00-GUACAMELEETWOOOO",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Rayman Legends",
+    {
+      "name": "Rayman Legends",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307EfasWbxB33-3AqY1YKO6soxEliac5YIuk0D9URQ-aWAVZbWOTd2Ge5QUI-KO_22neMhSvfH6s-dUBmZnvITlP8nHiE7.png",
+      "href": "https://store.playstation.com/en-us/product/UP0001-CUSA00069_00-RAYMANLEGENDS001",
+      "uuid": "UP0001-CUSA00069_00-RAYMANLEGENDS001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Valiant Hearts: The Great War",
+    {
+      "name": "Valiant Hearts: The Great War",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0001/CUSA00478_00/7iLF8pcDZI706eKbaB6d1nYRDMKZWaXB.png",
+      "href": "https://store.playstation.com/en-us/product/UP0001-CUSA00478_00-VALIANTHEARTS001",
+      "uuid": "UP0001-CUSA00478_00-VALIANTHEARTS001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Broforce",
+    {
+      "name": "Broforce",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1206/ZBrZdWMpe8J5dHsXfJxWsGHr.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA00911_00-00000BROFORCEPS4",
+      "uuid": "UP3643-CUSA00911_00-00000BROFORCEPS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hotline Miami",
+    {
+      "name": "Hotline Miami",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA00486_00/T1mmY3q3rilwXOL7WddwzgEChcdIJaAz.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA00486_00-HOTLINEMIAMIPS40",
+      "uuid": "UP3643-CUSA00486_00-HOTLINEMIAMIPS40",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hotline Miami 2: Wrong Number",
+    {
+      "name": "Hotline Miami 2: Wrong Number",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/3018/x0cMtPaOTtUWRymojmrEjT9f.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA00368_00-HOTLINEMIAMI2000",
+      "uuid": "UP3643-CUSA00368_00-HOTLINEMIAMI2000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hyper Light Drifter",
+    {
+      "name": "Hyper Light Drifter",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0322/CUSA04570_00/tMP5mCg2GPothdCbHOmnjNUcNH1ORSya.png",
+      "href": "https://store.playstation.com/en-us/product/UP0322-CUSA04570_00-HYPERLIGHTDRIFTR",
+      "uuid": "UP0322-CUSA04570_00-HYPERLIGHTDRIFTR",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Transistor",
+    {
+      "name": "Transistor",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2125/CUSA00502_00/rN4iaiVuxoNjzNVx7IRUau9VUVtJGQ5v.png",
+      "href": "https://store.playstation.com/en-us/product/UP2125-CUSA00502_00-TRANSISTORGAME00",
+      "uuid": "UP2125-CUSA00502_00-TRANSISTORGAME00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bastion",
+    {
+      "name": "Bastion",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2125/CUSA02052_00/PejF2t1xxHIj0EOKUno0I5G12MYTnUzO.png",
+      "href": "https://store.playstation.com/en-us/product/UP2125-CUSA02052_00-BASTIONGAME00000",
+      "uuid": "UP2125-CUSA02052_00-BASTIONGAME00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Pyre",
+    {
+      "name": "Pyre",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2125/CUSA05441_00/TVCMyCoL7CnW73QlOEKnNrLGkJAzBpAi.png",
+      "href": "https://store.playstation.com/en-us/product/UP2125-CUSA05441_00-PYREGAME20170000",
+      "uuid": "UP2125-CUSA05441_00-PYREGAME20170000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "GRIS",
+    {
+      "name": "GRIS",
+      "type": "game",
+      "price": "$16.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307bIxjIMQt1HT4aykDM4SQgGwuvxiFkCo-ALOMB2gU1G4e3n9d7OE2BFtI8rEcN2hpy_SY6SK8ijSMqaxgoMAZm41S5G0.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA16694_00-GRISPS4SIEA00000",
+      "uuid": "UP3643-CUSA16694_00-GRISPS4SIEA00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Flower PS4",
+    {
+      "name": "Flower PS4",
+      "type": "game",
+      "price": "$6.99",
+      "image": "https://image.api.playstation.com/cdn/UP9000/CUSA00092_00/PRGKHtGKrVgw4AcN67wEN35cWfx5tepM.png",
+      "href": "https://store.playstation.com/en-us/product/UP9000-CUSA00092_00-FLOWERPS4000FULL",
+      "uuid": "UP9000-CUSA00092_00-FLOWERPS4000FULL",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "What Remains of Edith Finch",
+    {
+      "name": "What Remains of Edith Finch",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2470/CUSA06886_00/0CwzEsHOogTAXTYmXERXEIktPEqSed7c.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-PPSA06207_00-EFINCHPS5SIEA000",
+      "uuid": "UP2470-PPSA06207_00-EFINCHPS5SIEA000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Firewatch",
+    {
+      "name": "Firewatch",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0146/CUSA04107_00/XFEn5Mk8QsgH7gB9iTEWMgg9LLHFRiuD.png",
+      "href": "https://store.playstation.com/en-us/product/UP0146-CUSA04107_00-FIREWATCH0000000",
+      "uuid": "UP0146-CUSA04107_00-FIREWATCH0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Gone Home",
+    {
+      "name": "Gone Home",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2919/7a212818fb9dbc60cad6db8484eed7f30fdc1ae533a4a9dd.png",
+      "href": "https://store.playstation.com/en-us/product/UP1012-CUSA01228_00-GONEHOME00000000",
+      "uuid": "UP1012-CUSA01228_00-GONEHOME00000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Vanishing of Ethan Carter",
+    {
+      "name": "The Vanishing of Ethan Carter",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP1210/CUSA03130_00/drb3FRDBrwr9f9lIeNIeJS12xYTVylGB.png",
+      "href": "https://store.playstation.com/en-us/product/UP1210-CUSA03130_00-ETHANCARTERPS4US",
+      "uuid": "UP1210-CUSA03130_00-ETHANCARTERPS4US",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Unfinished Swan",
+    {
+      "name": "The Unfinished Swan",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP9000/CUSA00695_00/oyx0grWokRqKpdF05ASVxPJFhYBHvthC.png",
+      "href": "https://store.playstation.com/en-us/product/UP9000-CUSA00695_00-UNFINISHEDSWANP4",
+      "uuid": "UP9000-CUSA00695_00-UNFINISHEDSWANP4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Outer Wilds",
+    {
+      "name": "Outer Wilds",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1623/Zofebh60Ue7Zt5sC10UAtU3D.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-PPSA08101_00-OUTERWILDSSIEA00",
+      "uuid": "UP2470-PPSA08101_00-OUTERWILDSSIEA00",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Return of the Obra Dinn",
+    {
+      "name": "Return of the Obra Dinn",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307npAdFIHKohCF8jmVdDyAM3Av2GKYQCOhgswGG1QRML8cJWxuj79dP7bAqa3ZhE5ug2q7KtLQ_wCLQOr-SrwNokMs0Fh.png",
+      "href": "https://store.playstation.com/en-us/product/UP2879-CUSA16867_00-ROTODBASEGAME001",
+      "uuid": "UP2879-CUSA16867_00-ROTODBASEGAME001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Artful Escape",
+    {
+      "name": "The Artful Escape",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/1000/EkWOuhbsGniVo4Ok1bpG8Wdw.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-PPSA05082_00-ARTFULSIEA000000",
+      "uuid": "UP2470-PPSA05082_00-ARTFULSIEA000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Gardens Between",
+    {
+      "name": "The Gardens Between",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202108/1006/yfnLy15X9en69ddxdcgAaO5C.png",
+      "href": "https://store.playstation.com/en-us/product/UP4266-PPSA04579_00-GARDENSBETWEEN00",
+      "uuid": "UP4266-PPSA04579_00-GARDENSBETWEEN00",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "A Short Hike",
+    {
+      "name": "A Short Hike",
+      "type": "game",
+      "price": "$7.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0918/AFBrfru8rBh4wEWnEiJIqdH1.png",
+      "href": "https://store.playstation.com/en-us/product/UP7124-CUSA29611_00-5721900664542776",
+      "uuid": "UP7124-CUSA29611_00-5721900664542776",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Unpacking",
+    {
+      "name": "Unpacking",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0118/A3KKgFFUTjKoxSc4ssAs61nF.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-PPSA07117_00-UNPACKINGPS5000A",
+      "uuid": "UP3864-PPSA07117_00-UNPACKINGPS5000A",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Dordogne",
+    {
+      "name": "Dordogne",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1109/c7a28dcddf610bda1611a6e8ed76ff767d58dae00ad5f93d.png",
+      "href": "https://store.playstation.com/en-us/product/UP4133-PPSA08529_00-DORDOGNEGAME0000",
+      "uuid": "UP4133-PPSA08529_00-DORDOGNEGAME0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "SEASON: A letter to the future PS4 & PS5",
+    {
+      "name": "SEASON: A letter to the future PS4 & PS5",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0319/Ap7NdK7pk3Xw3tH4LJFuM6d9.png",
+      "href": "https://store.playstation.com/en-us/product/UP3901-PPSA02856_00-SEASONGAMEPS5NA0",
+      "uuid": "UP3901-PPSA02856_00-SEASONGAMEPS5NA0",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Chicory: A Colorful Tale",
+    {
+      "name": "Chicory: A Colorful Tale",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1018/NCoj7EUrDJOGJbTmVclspBGo.png",
+      "href": "https://store.playstation.com/en-us/product/UP0406-PPSA03039_00-2395110143285364",
+      "uuid": "UP0406-PPSA03039_00-2395110143285364",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Cozy Grove",
+    {
+      "name": "Cozy Grove",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0221/1eF0bgVOJTarJKWviTqG1Y98.png",
+      "href": "https://store.playstation.com/en-us/product/UP2199-PPSA03191_00-COZYGROVEPS5NA00",
+      "uuid": "UP2199-PPSA03191_00-COZYGROVEPS5NA00",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Night in the Woods",
+    {
+      "name": "Night in the Woods",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0119/w38usnu70vEcNY3pNeDRc5XT.png",
+      "href": "https://store.playstation.com/en-us/product/UP0406-PPSA05488_00-1992015946390275",
+      "uuid": "UP0406-PPSA05488_00-1992015946390275",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Oxenfree",
+    {
+      "name": "Oxenfree",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP0962/CUSA04950_00/DjxdJFOTRD1QtQgtn3xZqJES11n949P7.png",
+      "href": "https://store.playstation.com/en-us/product/UP0962-CUSA04950_00-OXENBASEENUS0000",
+      "uuid": "UP0962-CUSA04950_00-OXENBASEENUS0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "OXENFREE II: Lost Signals PS4 & PS5",
+    {
+      "name": "OXENFREE II: Lost Signals PS4 & PS5",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2816/d252a7efb326ca2766bb142d719315f463d0655f2f0225cb.png",
+      "href": "https://store.playstation.com/en-us/product/UT0007-PPSA06982_00-OXEN2PS5SIEA0005",
+      "uuid": "UT0007-PPSA06982_00-OXEN2PS5SIEA0005",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Afterparty",
+    {
+      "name": "Afterparty",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307agFe8UfnRZ-gYmwP9qKc9E29-3y-JH35VixW8J8ltAAHhu5Ng3d29TENoVZmP63JMGQZP5mhtPx7eiULiebWSoMukYE.png",
+      "href": "https://store.playstation.com/en-us/product/UP0962-CUSA13041_00-AFTRPRTYBASE0000",
+      "uuid": "UP0962-CUSA13041_00-AFTRPRTYBASE0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Kentucky Route Zero: TV Edition",
+    {
+      "name": "Kentucky Route Zero: TV Edition",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0318/6e4c1a9bea5d06b549bdd4e0ed67c3ab9837c643da774614.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-PPSA15801_00-KRZPS5SIEA000000",
+      "uuid": "UP2470-PPSA15801_00-KRZPS5SIEA000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Coffee Talk",
+    {
+      "name": "Coffee Talk",
+      "type": "game",
+      "price": "$13.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202104/0510/kqFKzYXgYrUH0Ytg9ehjazY9.png",
+      "href": "https://store.playstation.com/en-us/product/UP5258-PPSA07056_00-5059957550022516",
+      "uuid": "UP5258-PPSA07056_00-5059957550022516",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    {
+      "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2802/7e8081b6fe6c07c724b389099ffa21072f2ef814c890190a.png",
+      "href": "https://store.playstation.com/en-us/product/UP5258-PPSA07052_00-2240926562133962",
+      "uuid": "UP5258-PPSA07052_00-2240926562133962",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Road 96",
+    {
+      "name": "Road 96",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2312/qMFgvU90doAOUzwhbDa6Wr8Y.png",
+      "href": "https://store.playstation.com/en-us/product/UP3763-PPSA05593_00-ROAD96GEN9GAME00",
+      "uuid": "UP3763-PPSA05593_00-ROAD96GEN9GAME00",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Road 96: Mile 0",
+    {
+      "name": "Road 96: Mile 0",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2710/GACMWM8kv5aY91ZizbAcbsXf.png",
+      "href": "https://store.playstation.com/en-us/product/UP3763-PPSA07585_00-ROAD96MILE0USPS5",
+      "uuid": "UP3763-PPSA07585_00-ROAD96MILE0USPS5",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "I Was a Teenage Exocolonist",
+    {
+      "name": "I Was a Teenage Exocolonist",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2303/T3b4XEQ7GGSezFPUiC8PI5y4.png",
+      "href": "https://store.playstation.com/en-us/product/UP0406-PPSA08518_00-4000367384034589",
+      "uuid": "UP0406-PPSA08518_00-4000367384034589",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Mutazione",
+    {
+      "name": "Mutazione",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307seveBTrRLTd57ruWy7i4UYYcEBDcGPAwx7GKsiKwUcgKvMH9VPx2C4bo7Hj5l7Hg7H2sDxHjMjsgGQ7bLbSu44J8Gkr.png",
+      "href": "https://store.playstation.com/en-us/product/UP3385-CUSA14188_00-0000DGFMUTAZIONE",
+      "uuid": "UP3385-CUSA14188_00-0000DGFMUTAZIONE",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Telling Lies",
+    {
+      "name": "Telling Lies",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307fudfx8cyYJpqXW3izzRxVqTEpn9JnNu8UNFJ9fZnx4cxoiDMS8tU1MUcWJjW9fhnEPxSwHol5ZYUaDfjp0fvfMhV3_y.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-CUSA16938_00-TELLINGLIESSIEA0",
+      "uuid": "UP2470-CUSA16938_00-TELLINGLIESSIEA0",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Yooka-Laylee",
+    {
+      "name": "Yooka-Laylee",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4064/CUSA05751_00/XUMSWdufvfBxRLQMWLyKHyBK3QwWduB0.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA05751_00-YOOKALAYLEE00000",
+      "uuid": "UP4064-CUSA05751_00-YOOKALAYLEE00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Yooka-Laylee and the Impossible Lair",
+    {
+      "name": "Yooka-Laylee and the Impossible Lair",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307I1Atgi9SYUIMGE8B4AagR2lBpH-KWUMNRhzR7CRK3GQZhu2liZpPTzNOu_qP6lt9q8OuGs0yEBsYk5-Dv6fwHAvCh6k.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA16148_00-YOOKALAYLEEIL000",
+      "uuid": "UP4064-CUSA16148_00-YOOKALAYLEEIL000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "A Hat in Time",
+    {
+      "name": "A Hat in Time",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP3864/CUSA09267_00/BiXNN4RpSz69wYXexRGGcaWsHrYNhjUs.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-CUSA09267_00-AHATINTIMEPS4000",
+      "uuid": "UP3864-CUSA09267_00-AHATINTIMEPS4000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "New Super Lucky's Tale",
+    {
+      "name": "New Super Lucky's Tale",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307fHU-eZ2rOFCQ2PWiituRvSebqoSrK-wkwicJBMIs6Qg8Tp8d_gpz2NkZi2wqPR_C7KZACPG86aRlqvcCzKmCLgj84Kc.png",
+      "href": "https://store.playstation.com/en-us/product/UP1109-CUSA20229_00-NSLT000000000100",
+      "uuid": "UP1109-CUSA20229_00-NSLT000000000100",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Sonic Mania",
+    {
+      "name": "Sonic Mania",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0177/CUSA07023_00/pvfMACRlDW27Agp9HjDxL8CcmqxZL1V5.png",
+      "href": "https://store.playstation.com/en-us/product/UP0177-CUSA07023_00-SONICMANIA000000",
+      "uuid": "UP0177-CUSA07023_00-SONICMANIA000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Sonic Frontiers PS4 & PS5",
+    {
+      "name": "Sonic Frontiers PS4 & PS5",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0519/G9fDIHISfuLRt7CQ0AfNxlJX.png",
+      "href": "https://store.playstation.com/en-us/product/UP0177-PPSA03831_00-SONICRANGERS0000",
+      "uuid": "UP0177-PPSA03831_00-SONICRANGERS0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Sonic Colors: Ultimate",
+    {
+      "name": "Sonic Colors: Ultimate",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1405/BqrprTFVbLQvPBaPiHIZuOAH.png",
+      "href": "https://store.playstation.com/en-us/product/UP0177-CUSA19345_00-SONICCOLORSULTIM",
+      "uuid": "UP0177-CUSA19345_00-SONICCOLORSULTIM",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Wonder Boy: The Dragon's Trap",
+    {
+      "name": "Wonder Boy: The Dragon's Trap",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP1482/CUSA07029_00/eUSfFtqNlCJh6Vm1EqtSUsMxr4viAtqY.png",
+      "href": "https://store.playstation.com/en-us/product/UP1482-CUSA07029_00-DOTWBDRAGONSTRAP",
+      "uuid": "UP1482-CUSA07029_00-DOTWBDRAGONSTRAP",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Monster Boy and the Cursed Kingdom",
+    {
+      "name": "Monster Boy and the Cursed Kingdom",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0705/36AB9tmybA00zCzfgARA3X90.png",
+      "href": "https://store.playstation.com/en-us/product/UP0760-PPSA02787_00-0286229275301959",
+      "uuid": "UP0760-PPSA02787_00-0286229275301959",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Messenger",
+    {
+      "name": "The Messenger",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA15271_00/LSLPr4m1Vq7kdmVf6OGLGb1L2mzoYvIj.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA15271_00-THEMESSENGERSIEA",
+      "uuid": "UP3643-CUSA15271_00-THEMESSENGERSIEA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Blasphemous",
+    {
+      "name": "Blasphemous",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0610/5MnmcnD6qqpjLbOS84kdIzJo.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA16275_00-BLASPHEMOUS00000",
+      "uuid": "UP4064-CUSA16275_00-BLASPHEMOUS00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Blasphemous 2",
+    {
+      "name": "Blasphemous 2",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0318/92f975f1e62581b4b193d6aea8fd9145efb9623a04513604.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-PPSA13580_00-BLASPHEMOUS20000",
+      "uuid": "UP4064-PPSA13580_00-BLASPHEMOUS20000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "ENDER LILIES: Quietus of the Knights",
+    {
+      "name": "ENDER LILIES: Quietus of the Knights",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2006/UQ0eSe7Rx4K0sXkO1nR7Iq9k.png",
+      "href": "https://store.playstation.com/en-us/product/UP6492-CUSA26115_00-5192797089817796",
+      "uuid": "UP6492-CUSA26115_00-5192797089817796",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bloodstained: Ritual of the Night",
+    {
+      "name": "Bloodstained: Ritual of the Night",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/coal-image-prod/cdn/molt/ALL/201905/MOLT2220_ZZ/JPIwlt0vcoS61wGVmV.png",
+      "href": "https://store.playstation.com/en-us/product/UP4040-CUSA07953_00-BLOODSTAINED0000",
+      "uuid": "UP4040-CUSA07953_00-BLOODSTAINED0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+    {
+      "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0101/CUSA13434_00/LEmkby25T8JSfofEgDKXQgDAemcE7DIv.png",
+      "href": "https://store.playstation.com/en-us/product/UP0101-CUSA13434_00-CASTLEVANIA00001",
+      "uuid": "UP0101-CUSA13434_00-CASTLEVANIA00001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Castlevania Anniversary Collection",
+    {
+      "name": "Castlevania Anniversary Collection",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0101/CUSA15109_00/FX4LMtyaWxdISYpDTqZhqycaPrfzmJYR.png",
+      "href": "https://store.playstation.com/en-us/product/UP0101-CUSA15109_00-CASTLEVANIAGAMES",
+      "uuid": "UP0101-CUSA15109_00-CASTLEVANIAGAMES",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Record of Lodoss War-Deedlit in Wonder Labyrinth",
+    {
+      "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2908/14TpY95J6Q09zvv4StFdsQAK.png",
+      "href": "https://store.playstation.com/en-us/product/UP0969-CUSA30408_00-LODOSSWARDEEDLIT",
+      "uuid": "UP0969-CUSA30408_00-LODOSSWARDEEDLIT",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Owlboy",
+    {
+      "name": "Owlboy",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/cdn/UP4218/CUSA09914_00/IVDtOnzTkqygikksONGKxyLZjUzhWxoz.png",
+      "href": "https://store.playstation.com/en-us/product/UP4218-CUSA09914_00-OWLBOY0000000000",
+      "uuid": "UP4218-CUSA09914_00-OWLBOY0000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Iconoclasts",
+    {
+      "name": "Iconoclasts",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP1274/CUSA09583_00/pDvCDz6rhYUJEh3IV4owCCsxFNguIjO3.png",
+      "href": "https://store.playstation.com/en-us/product/UP1274-CUSA09583_00-ICONOCLAST000001",
+      "uuid": "UP1274-CUSA09583_00-ICONOCLAST000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Timespinner",
+    {
+      "name": "Timespinner",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0426/CUSA11926_00/uPkTvmf80hMNDVfULeMHFwr8AS6qwPme.png",
+      "href": "https://store.playstation.com/en-us/product/UP0426-CUSA11926_00-TIMESPINNER00000",
+      "uuid": "UP0426-CUSA11926_00-TIMESPINNER00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Momodora: Reverie Under the Moonlight",
+    {
+      "name": "Momodora: Reverie Under the Moonlight",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP0969/CUSA05694_00/ZM3fuGFYlBZxTRY7kFw9yu00zGfaiYvu.png",
+      "href": "https://store.playstation.com/en-us/product/UP0969-CUSA05694_00-MOMODORA0000US00",
+      "uuid": "UP0969-CUSA05694_00-MOMODORA0000US00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Aeterna Noctis",
+    {
+      "name": "Aeterna Noctis",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202304/2711/42b782ee424cd7e06911fd0f5d2cb3ceff4642cffca344ae.png",
+      "href": "https://store.playstation.com/en-us/product/UP7013-PPSA04248_00-9699608821808536",
+      "uuid": "UP7013-PPSA04248_00-9699608821808536",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "F.I.S.T.: Forged In Shadow Torch",
+    {
+      "name": "F.I.S.T.: Forged In Shadow Torch",
+      "type": "game",
+      "price": "$15.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1407/a0v5crJH2yW6mjjLVLI5TeHB.png",
+      "href": "https://store.playstation.com/en-us/product/UP5999-PPSA03884_00-FISTSIEAPS5HD001",
+      "uuid": "UP5999-PPSA03884_00-FISTSIEAPS5HD001",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Islets",
+    {
+      "name": "Islets",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2718/a225183806d64f6faf9616bf2d8fd87da4d3f6cf66017b68.png",
+      "href": "https://store.playstation.com/en-us/product/UP5155-PPSA27124_00-ISLETS0000000000",
+      "uuid": "UP5155-PPSA27124_00-ISLETS0000000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Astalon: Tears Of The Earth",
+    {
+      "name": "Astalon: Tears Of The Earth",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2308/tBGpMyA8Qqg07LYJysKua3oG.png",
+      "href": "https://store.playstation.com/en-us/product/UP4127-CUSA25970_00-ASTALONUS0000000",
+      "uuid": "UP4127-CUSA25970_00-ASTALONUS0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Mummy Demastered",
+    {
+      "name": "The Mummy Demastered",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2053/CUSA09147_00/zAmYG0H9JsUaS80B4mMWuYZdeNlbBjA7.png",
+      "href": "https://store.playstation.com/en-us/product/UP2053-CUSA09147_00-THEMUMMYDEMASTER",
+      "uuid": "UP2053-CUSA09147_00-THEMUMMYDEMASTER",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Shantae: Half-Genie Hero",
+    {
+      "name": "Shantae: Half-Genie Hero",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2053/CUSA03920_00/RBs4JYaiYVAdsJa4efmXz9k9twKHo9zU.png",
+      "href": "https://store.playstation.com/en-us/product/UP2053-CUSA03920_00-SHANTAEHEROEFS01",
+      "uuid": "UP2053-CUSA03920_00-SHANTAEHEROEFS01",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Freedom Planet",
+    {
+      "name": "Freedom Planet",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0736/CUSA05478_00/ywUpDvEEfu9w5K9PVViVLQbXeEL0N2zd.png",
+      "href": "https://store.playstation.com/en-us/product/UP0736-CUSA05478_00-FREEDOMPLN000001",
+      "uuid": "UP0736-CUSA05478_00-FREEDOMPLN000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Freedom Planet 2",
+    {
+      "name": "Freedom Planet 2",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202401/1216/cab9d003001c4c167c58ea32ef73dc3d8d391dde16e1d491.png",
+      "href": "https://store.playstation.com/en-us/product/UP1023-PPSA16461_00-0000000000000000",
+      "uuid": "UP1023-PPSA16461_00-0000000000000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "VVVVVV",
+    {
+      "name": "VVVVVV",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP2103/CUSA00826_00/0prR4vN71gGv7rXSk3QGQOV7rQCgn8Uj.png",
+      "href": "https://store.playstation.com/en-us/product/UP2103-CUSA00826_00-VVVVVVGAMEAPPPS4",
+      "uuid": "UP2103-CUSA00826_00-VVVVVVGAMEAPPPS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Rain World",
+    {
+      "name": "Rain World",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/3015/8uhUduWChINJs5O8hEyfUPPL.png",
+      "href": "https://store.playstation.com/en-us/product/UP0151-CUSA04196_00-RAINWORLD0000000",
+      "uuid": "UP0151-CUSA04196_00-RAINWORLD0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Yoku's Island Express",
+    {
+      "name": "Yoku's Island Express",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4064/CUSA10654_00/LgTq35NXAxaxZQvoBU5WcB4FwnUWmsMq.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA10654_00-YOKUSISLANDEXP00",
+      "uuid": "UP4064-CUSA10654_00-YOKUSISLANDEXP00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Xeodrifter",
+    {
+      "name": "Xeodrifter",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP1050/CUSA02439_00/H2iB7UwS2IuE3xFqi06gfzHDG9eBLaUH.png",
+      "href": "https://store.playstation.com/en-us/product/UP1050-CUSA02439_00-XEODRIFTERPS4USX",
+      "uuid": "UP1050-CUSA02439_00-XEODRIFTERPS4USX",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The End Is Nigh",
+    {
+      "name": "The End Is Nigh",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2103/CUSA15011_00/g4wn4hQ8yAtArh85fSTDbtAsiuedsn11.png",
+      "href": "https://store.playstation.com/en-us/product/UP2103-CUSA15011_00-THEENDISNIGH0000",
+      "uuid": "UP2103-CUSA15011_00-THEENDISNIGH0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Touryst",
+    {
+      "name": "The Touryst",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0714/sP3Y2XBxNC8qxJIX5woWef10.png",
+      "href": "https://store.playstation.com/en-us/product/UP4496-PPSA03246_00-THETOURYST000000",
+      "uuid": "UP4496-PPSA03246_00-THETOURYST000000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Kaze and the Wild Masks",
+    {
+      "name": "Kaze and the Wild Masks",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0215/VrQWNHmY4f9iGtM8a2gPxqmx.png",
+      "href": "https://store.playstation.com/en-us/product/UP1470-CUSA17979_00-KAZEWILDMASKUS00",
+      "uuid": "UP1470-CUSA17979_00-KAZEWILDMASKUS00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Pepper Grinder",
+    {
+      "name": "Pepper Grinder",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1821/19397e73517fbcddaef720e1738b221b33416bfb24f05ff9.png",
+      "href": "https://store.playstation.com/en-us/product/EP3643-PPSA23280_00-PEPPGRINPS5SIEE1",
+      "uuid": "EP3643-PPSA23280_00-PEPPGRINPS5SIEE1",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bubsy: Paws on Fire!",
+    {
+      "name": "Bubsy: Paws on Fire!",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/cdn/UP2035/CUSA14048_00/d0Ijdt6cVB9kcBhFek5lpFvl9IDn2H7V.png",
+      "href": "https://store.playstation.com/en-us/product/UP2035-CUSA14048_00-BUBSYPAWS0000001",
+      "uuid": "UP2035-CUSA14048_00-BUBSYPAWS0000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Unruly Heroes",
+    {
+      "name": "Unruly Heroes",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP3681/CUSA12663_00/LoCA2Y1mIocqZZlO3ExSFOjG1VYRcXYT.png",
+      "href": "https://store.playstation.com/en-us/product/UP3681-CUSA12663_00-UNRULYHEROESAMER",
+      "uuid": "UP3681-CUSA12663_00-UNRULYHEROESAMER",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Amnesia: Collection",
+    {
+      "name": "Amnesia: Collection",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP1192/CUSA05882_00/VEObQqKaaWJ39rBmYYHa13PAx4blVkBG.png",
+      "href": "https://store.playstation.com/en-us/product/UP1192-CUSA05882_00-AMNESIACOLECTION",
+      "uuid": "UP1192-CUSA05882_00-AMNESIACOLECTION",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Amnesia: Rebirth",
+    {
+      "name": "Amnesia: Rebirth",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/1521/0z2iBs3VlZ6Q544DuoeyOGes.png",
+      "href": "https://store.playstation.com/en-us/product/UP1192-CUSA19254_00-AMNESIAREBIRTH20",
+      "uuid": "UP1192-CUSA19254_00-AMNESIAREBIRTH20",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Amnesia: The Bunker",
+    {
+      "name": "Amnesia: The Bunker",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1613/9777cf3a37b8f0c06587f69d4385944e9169ec1d433e4c27.png",
+      "href": "https://store.playstation.com/en-us/product/UP1192-CUSA40994_00-AMNESIATHEBUNKER",
+      "uuid": "UP1192-CUSA40994_00-AMNESIATHEBUNKER",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "SOMA",
+    {
+      "name": "SOMA",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP1192/CUSA03333_00/FOYX4KFQqpy8NZ2i5FVaN5zwH0mkTJyu.png",
+      "href": "https://store.playstation.com/en-us/product/UP1192-CUSA03333_00-HPL3SOMAGAME2015",
+      "uuid": "UP1192-CUSA03333_00-HPL3SOMAGAME2015",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Outlast",
+    {
+      "name": "Outlast",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2113/CUSA00325_00/M7Xcn9Q7mUkmm3dSilcsbkORlPPiQ0VK.png",
+      "href": "https://store.playstation.com/en-us/product/UP2113-CUSA00325_00-OUTLAST000000000",
+      "uuid": "UP2113-CUSA00325_00-OUTLAST000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Outlast 2",
+    {
+      "name": "Outlast 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2113/CUSA06623_00/5vXtP0O5fmnnyrNnWAinTz57d04szG3b.png",
+      "href": "https://store.playstation.com/en-us/product/UP2113-CUSA06623_00-OUTLAST200000000",
+      "uuid": "UP2113-CUSA06623_00-OUTLAST200000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Observer: System Redux",
+    {
+      "name": "Observer: System Redux",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1815/2b06f03f1a7372f17f2620366653398bafcf3495c75463ae.png",
+      "href": "https://store.playstation.com/en-us/product/UP4176-PPSA02118_00-8840415776217330",
+      "uuid": "UP4176-PPSA02118_00-8840415776217330",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "VISAGE",
+    {
+      "name": "VISAGE",
+      "type": "game",
+      "price": "$34.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1322/zz3hYWUBYCDYoe1bwz0sa3Qo.png",
+      "href": "https://store.playstation.com/en-us/product/UP3376-CUSA20594_00-SSVISAGEGAMEPACK",
+      "uuid": "UP3376-CUSA20594_00-SSVISAGEGAMEPACK",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "MA Di SON",
+    {
+      "name": "MA Di SON",
+      "type": "game",
+      "price": "$34.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0516/f7oW1UcdrCvZZ3Vfb1DZySY8.png",
+      "href": "https://store.playstation.com/en-us/product/UP3589-CUSA33277_00-6927862277396697",
+      "uuid": "UP3589-CUSA33277_00-6927862277396697",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "SONG OF HORROR",
+    {
+      "name": "SONG OF HORROR",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1308/IcgCV6RNmA3I0BUG4vIhQJca.png",
+      "href": "https://store.playstation.com/en-us/product/UP3938-CUSA20595_00-SONGOFHORROR0002",
+      "uuid": "UP3938-CUSA20595_00-SONGOFHORROR0002",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Tormented Souls",
+    {
+      "name": "Tormented Souls",
+      "type": "game",
+      "price": "Unavailable",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0714/8Cw9tryQWwC0R8Fc4ReBZLc8.png",
+      "href": "https://store.playstation.com/en-us/product/UP4293-CUSA29200_00-TORMENTEDSIEAPS4",
+      "uuid": "UP4293-CUSA29200_00-TORMENTEDSIEAPS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "SIGNALIS",
+    {
+      "name": "SIGNALIS",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1922/a4qh6rFTIYn8HJ6hQjwoI4ZC.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-CUSA34422_00-SIGNALIS0000004A",
+      "uuid": "UP3864-CUSA34422_00-SIGNALIS0000004A",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Darkwood",
+    {
+      "name": "Darkwood",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2764/CUSA13413_00/ZNTrdPGy2zNXOeCXsebhUhwF1kkVCDr6.png",
+      "href": "https://store.playstation.com/en-us/product/UP2764-CUSA13413_00-DARKWOOD00000000",
+      "uuid": "UP2764-CUSA13413_00-DARKWOOD00000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Detention",
+    {
+      "name": "Detention",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/cdn/UP4223/CUSA09510_00/HezYYicxkPkFCVWLqEY8wFcus0mnkn3Q.png",
+      "href": "https://store.playstation.com/en-us/product/UP4223-CUSA09510_00-COCONUTDETENTION",
+      "uuid": "UP4223-CUSA09510_00-COCONUTDETENTION",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Blair Witch",
+    {
+      "name": "Blair Witch",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1916/154e3f08f7cf714e9b06c37e08fafe10a738bf2c3242b4b0.png",
+      "href": "https://store.playstation.com/en-us/product/UP5969-CUSA18142_00-BLAIRWITCHUS0000",
+      "uuid": "UP5969-CUSA18142_00-BLAIRWITCHUS0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Martha Is Dead PS4 & PS5",
+    {
+      "name": "Martha Is Dead PS4 & PS5",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2409/73fw9gugmhSMuw3FhVlPPKXh.png",
+      "href": "https://store.playstation.com/en-us/product/UP4382-PPSA02005_00-MARTHAISDEAD0000",
+      "uuid": "UP4382-PPSA02005_00-MARTHAISDEAD0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Beast Inside",
+    {
+      "name": "The Beast Inside",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2315/md7GEzGKdqbjcFRMhIQa4Uge.png",
+      "href": "https://store.playstation.com/en-us/product/UP8160-CUSA37353_00-0000000000000000",
+      "uuid": "UP8160-CUSA37353_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Those Who Remain",
+    {
+      "name": "Those Who Remain",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307S0-RCyzlr9sMLypd4hXW61QfKVOqe4RMoXOynjNRrj0IRYAoxmINdLGcGXkrnQetQBz6JtbGaOPi4QNGOGLh5MUrkWu.png",
+      "href": "https://store.playstation.com/en-us/product/UP4382-CUSA11519_00-TWRPS4000000000U",
+      "uuid": "UP4382-CUSA11519_00-TWRPS4000000000U",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Remothered: Tormented Fathers",
+    {
+      "name": "Remothered: Tormented Fathers",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP4448/CUSA12030_00/SaRg0mfEI6tE5gu3a2QexmpTbxilVOLE.png",
+      "href": "https://store.playstation.com/en-us/product/UP4448-CUSA12030_00-RM1RELEASE000001",
+      "uuid": "UP4448-CUSA12030_00-RM1RELEASE000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Remothered: Broken Porcelain",
+    {
+      "name": "Remothered: Broken Porcelain",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2105/c6eXAT6dwlKptMlQasWJSPCe.png",
+      "href": "https://store.playstation.com/en-us/product/UP4735-CUSA18357_00-REMOTHEREDBROPOR",
+      "uuid": "UP4735-CUSA18357_00-REMOTHEREDBROPOR",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Agony",
+    {
+      "name": "Agony",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2047/CUSA10216_00/YIXvJzNLVDBnI9yQEmlrC58LweMlNoFg.png",
+      "href": "https://store.playstation.com/en-us/product/UP2047-CUSA10216_00-AGONY666AMERICAS",
+      "uuid": "UP2047-CUSA10216_00-AGONY666AMERICAS",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "SUCCUBUS",
+    {
+      "name": "SUCCUBUS",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0520/8c891f16c196cf1766d7ffc34c0dc323434ccecf30d82b4f.png",
+      "href": "https://store.playstation.com/en-us/product/UP1564-CUSA37238_00-CLABS0SU20221201",
+      "uuid": "UP1564-CUSA37238_00-CLABS0SU20221201",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Sinking City",
+    {
+      "name": "The Sinking City",
+      "type": "game",
+      "price": "$49.99",
+      "image": "https://image.api.playstation.com/cdn/UP4008/CUSA13337_00/sXlUDaCqLbPbNmdA7FwoF3wlRvLRiTh2.png",
+      "href": "https://store.playstation.com/en-us/product/UP4008-CUSA13337_00-THESINKINGCITYUA",
+      "uuid": "UP4008-CUSA13337_00-THESINKINGCITYUA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Call of Cthulhu",
+    {
+      "name": "Call of Cthulhu",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307tHc-g--IwELVG7Uxel9rhrIa_NTF2OocFnmgU7ItLCENo-O6_mUcp7MY1wIeJ0Hk-VxgR_0PJ3vBvZtUInZhAIyWOgc.png",
+      "href": "https://store.playstation.com/en-us/product/UP4133-CUSA04730_00-CALLOFCTHULHUXXX",
+      "uuid": "UP4133-CUSA04730_00-CALLOFCTHULHUXXX",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Close to the Sun",
+    {
+      "name": "Close to the Sun",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307MzRVNB6AVbkn1Y5_Yv3HaSRCJwUA7JanHg1SE2C7W5oUWfD-pe3XNcVNEpL8aAG3-F5hrtmZEFehSmg1RsQt1sAzl3K.png",
+      "href": "https://store.playstation.com/en-us/product/UP4382-CUSA15487_00-CLOSETOTHESUN000",
+      "uuid": "UP4382-CUSA15487_00-CLOSETOTHESUN000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Park",
+    {
+      "name": "The Park",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2209/f6V886VDSk73RoBtzRkludBQ.png",
+      "href": "https://store.playstation.com/en-us/product/UP1850-CUSA04566_00-0000000000000002",
+      "uuid": "UP1850-CUSA04566_00-0000000000000002",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Among The Sleep - Enhanced Edition",
+    {
+      "name": "Among The Sleep - Enhanced Edition",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP1623/CUSA04029_00/iprpd7ZDt4IL4OhlyONJpWr8Gl5B4Gzg.png",
+      "href": "https://store.playstation.com/en-us/product/UP1623-CUSA04029_00-AMONGTHESLEEP001",
+      "uuid": "UP1623-CUSA04029_00-AMONGTHESLEEP001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "White Day: A Labyrinth Named School",
+    {
+      "name": "White Day: A Labyrinth Named School",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP4293/CUSA08269_00/xdRVcc0cb1s1pyySghqTe0ciProm04Ra.png",
+      "href": "https://store.playstation.com/en-us/product/UP4293-CUSA08269_00-WHITEDAY1US00000",
+      "uuid": "UP4293-CUSA08269_00-WHITEDAY1US00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Home Sweet Home",
+    {
+      "name": "Home Sweet Home",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP1059/CUSA12684_00/OMyXPLKDz1YYfBTCghvKRfSR4rQMMcVr.png",
+      "href": "https://store.playstation.com/en-us/product/UP1059-CUSA12684_00-HOMESWEETHOMEUSA",
+      "uuid": "UP1059-CUSA12684_00-HOMESWEETHOMEUSA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Fobia - St. Dinfna Hotel",
+    {
+      "name": "Fobia - St. Dinfna Hotel",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2018/VoQ8vavKYtIlqwRz6atdLzok.png",
+      "href": "https://store.playstation.com/en-us/product/UP2080-CUSA30958_00-FOBIA00000000000",
+      "uuid": "UP2080-CUSA30958_00-FOBIA00000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Infliction: Extended Cut",
+    {
+      "name": "Infliction: Extended Cut",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/1130772-G-34t2mIf8dBxIPujsWwcJezCdiGa9m1x1mvDO0YGeUaz8aOAaYYsBo_QD56sclCwt5dbqMmrgEoqGJiu3M2SJOh.png",
+      "href": "https://store.playstation.com/en-us/product/UP5552-CUSA17359_00-INFLICTIONPS4000",
+      "uuid": "UP5552-CUSA17359_00-INFLICTIONPS4000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Town of Light",
+    {
+      "name": "The Town of Light",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4382/CUSA07084_00/pJTdNai6WZZkLpMEYYHLr9GZILBY2c8r.png",
+      "href": "https://store.playstation.com/en-us/product/UP4382-CUSA07084_00-THETOWNOFLIGHT00",
+      "uuid": "UP4382-CUSA07084_00-THETOWNOFLIGHT00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "DreadOut 2",
+    {
+      "name": "DreadOut 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2410/VkVWSLC1rJqegH2cKtrKq75Z.png",
+      "href": "https://store.playstation.com/en-us/product/UP2187-PPSA04418_00-1483777748712187",
+      "uuid": "UP2187-PPSA04418_00-1483777748712187",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bendy and the Ink Machine",
+    {
+      "name": "Bendy and the Ink Machine",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2344/CUSA13637_00/Hp5ouZ0jKhmtt2seuoydkrNUrtTTL8bo.png",
+      "href": "https://store.playstation.com/en-us/product/UP2344-CUSA13637_00-MDKRTGAMES4BATIM",
+      "uuid": "UP2344-CUSA13637_00-MDKRTGAMES4BATIM",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bendy and the Dark Revival",
+    {
+      "name": "Bendy and the Dark Revival",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/1121/lWwVNoVRUE7hoykPG1PfAi82.png",
+      "href": "https://store.playstation.com/en-us/product/UP5338-CUSA37772_00-1615376634139120",
+      "uuid": "UP5338-CUSA37772_00-1615376634139120",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hello Neighbor",
+    {
+      "name": "Hello Neighbor",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1811/3f246e54d304f6fa9f4d2c79f82a8121422d57777d7b21b5.png",
+      "href": "https://store.playstation.com/en-us/product/UP0097-PPSA35090_00-HNREMASTERED0000",
+      "uuid": "UP0097-PPSA35090_00-HNREMASTERED0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hello Neighbor Hide and Seek",
+    {
+      "name": "Hello Neighbor Hide and Seek",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP0097/CUSA13974_00/jgHyP2onplkqnBV58Pkw5j7gs5L4FYip.png",
+      "href": "https://store.playstation.com/en-us/product/UP0097-CUSA13974_00-HNHIDEANDSEEK4NA",
+      "uuid": "UP0097-CUSA13974_00-HNHIDEANDSEEK4NA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Hello Neighbor 2",
+    {
+      "name": "Hello Neighbor 2",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0613/249503ec6c4aa1d4c2fd6fbc5350fadaa32a13697c5bb2fc.png",
+      "href": "https://store.playstation.com/en-us/product/UP0097-PPSA07425_00-2395303223172491",
+      "uuid": "UP0097-PPSA07425_00-2395303223172491",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Five Nights at Freddy's: Help Wanted",
+    {
+      "name": "Five Nights at Freddy's: Help Wanted",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP0638/CUSA15930_00/wMD21HRlZLFIPRQd4pqkIwHGJ2Broq41.png",
+      "href": "https://store.playstation.com/en-us/product/UP0638-CUSA15930_00-FNAFVRHELPWANTED",
+      "uuid": "UP0638-CUSA15930_00-FNAFVRHELPWANTED",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Five Nights at Freddy's: Security Breach",
+    {
+      "name": "Five Nights at Freddy's: Security Breach",
+      "type": "game",
+      "price": "$39.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202112/0804/2UTMvRFqn4SdaoxhtQnxchcn.png",
+      "href": "https://store.playstation.com/en-us/product/UP0638-PPSA01797_00-FNAFSECUREBREACH",
+      "uuid": "UP0638-PPSA01797_00-FNAFSECUREBREACH",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Poppy Playtime: Chapter 1",
+    {
+      "name": "Poppy Playtime: Chapter 1",
+      "type": "game",
+      "price": "$4.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2416/f4c095be7b000a29b298dda4b8a1c28f472466b25f44f1f7.png",
+      "href": "https://store.playstation.com/en-us/product/UP8103-CUSA45274_00-0799394522461623",
+      "uuid": "UP8103-CUSA45274_00-0799394522461623",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bramble: The Mountain King",
+    {
+      "name": "Bramble: The Mountain King",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2814/0UJhKmBamV5MzeIfAZQSYK4H.png",
+      "href": "https://store.playstation.com/en-us/product/UP1260-PPSA09425_00-0863551605945340",
+      "uuid": "UP1260-PPSA09425_00-0863551605945340",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Little Misfortune",
+    {
+      "name": "Little Misfortune",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307Tmxmxvl7U_ZRwTrRwD_1JTsh_iuIzBldy5OVIDNwZEskIGYH-jwSt2K2MKEmP9BNhOotOTCtGux9kKRlgxbz8I4aAhq.png",
+      "href": "https://store.playstation.com/en-us/product/UP5329-CUSA19165_00-0000000000000666",
+      "uuid": "UP5329-CUSA19165_00-0000000000000666",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Fran Bow",
+    {
+      "name": "Fran Bow",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0115/0aa229319f0d83d2c3ae691e817cbe140573088bbc9279a4.png",
+      "href": "https://store.playstation.com/en-us/product/UP5329-CUSA40848_00-0405760093586357",
+      "uuid": "UP5329-CUSA40848_00-0405760093586357",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Lone Survivor: The Director's Cut",
+    {
+      "name": "Lone Survivor: The Director's Cut",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP4395/CUSA01051_00/mxkCN8lkZjWuwIyDKVxn3RGGxJv60bE0.png",
+      "href": "https://store.playstation.com/en-us/product/UP4395-CUSA01051_00-LONESURVIVORDCUT",
+      "uuid": "UP4395-CUSA01051_00-LONESURVIVORDCUT",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Claire: Extended Cut",
+    {
+      "name": "Claire: Extended Cut",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0312/CUSA03781_00/AIb2XXGJyHUYeQcETxscuxI34nZoCYuN.png",
+      "href": "https://store.playstation.com/en-us/product/UP0312-CUSA03781_00-CLAIREEXTENDEDCU",
+      "uuid": "UP0312-CUSA03781_00-CLAIREEXTENDEDCU",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Coma: Recut",
+    {
+      "name": "The Coma: Recut",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2187/CUSA08763_00/XaB7zuOtXM2uuGQ4FJ1oX0RlkOkQWRvq.png",
+      "href": "https://store.playstation.com/en-us/product/UP2187-CUSA08763_00-COMAPS400000000U",
+      "uuid": "UP2187-CUSA08763_00-COMAPS400000000U",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Coma 2: Vicious Sisters",
+    {
+      "name": "The Coma 2: Vicious Sisters",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA18822_00/2/i_8fa982ef6af038a01db8bcfdcd8a6ff28d22dcd00e6bc9d874e5a1acbd486b40/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP0825-CUSA18816_00-THECOMA2SIEA0000",
+      "uuid": "UP0825-CUSA18816_00-THECOMA2SIEA0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Yomawari: Midnight Shadows",
+    {
+      "name": "Yomawari: Midnight Shadows",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP1063/CUSA09195_00/rFiGCmweK2PRiSuCL9GPXyKjWcwXRoAV.png",
+      "href": "https://store.playstation.com/en-us/product/UP1063-CUSA09195_00-SHINYOMAWARI0001",
+      "uuid": "UP1063-CUSA09195_00-SHINYOMAWARI0001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "WORLD OF HORROR",
+    {
+      "name": "WORLD OF HORROR",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1608/c29b9d745f2e717519faed176e48f7142de0cd5487e15518.png",
+      "href": "https://store.playstation.com/en-us/product/UP2251-CUSA37155_00-1630512188477703",
+      "uuid": "UP2251-CUSA37155_00-1630512188477703",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Murder House",
+    {
+      "name": "Murder House",
+      "type": "game",
+      "price": "$11.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/3015/kX3ArtX1UECXEPXVFE6xMM9I.png",
+      "href": "https://store.playstation.com/en-us/product/UP6778-CUSA29731_00-5384264416432337",
+      "uuid": "UP6778-CUSA29731_00-5384264416432337",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Bloodwash",
+    {
+      "name": "Bloodwash",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0716/m5i3cducKIyNEpL7mAtzFtsT.png",
+      "href": "https://store.playstation.com/en-us/product/UP6778-PPSA07325_00-4061784415302130",
+      "uuid": "UP6778-PPSA07325_00-4061784415302130",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Vampire Survivors",
+    {
+      "name": "Vampire Survivors",
+      "type": "game",
+      "price": "$4.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1109/a331284fd9dc56ec526e49afd7ee41d7aafa697e947816cf.png",
+      "href": "https://store.playstation.com/en-us/product/EB0324-PPSA21703_00-0027916840515656",
+      "uuid": "EB0324-PPSA21703_00-0027916840515656",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Brotato PS4 & PS5",
+    {
+      "name": "Brotato PS4 & PS5",
+      "type": "game",
+      "price": "$4.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0811/e982b374d2f2a9bc21aeaa04e26b244fbe64251dc91a9e46.png",
+      "href": "https://store.playstation.com/en-us/product/UP4425-PPSA18472_00-0566161477848897",
+      "uuid": "UP4425-PPSA18472_00-0566161477848897",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Nuclear Throne",
+    {
+      "name": "Nuclear Throne",
+      "type": "game",
+      "price": "$11.99",
+      "image": "https://image.api.playstation.com/cdn/UP1491/CUSA03902_00/WTYRzEt37Pter9HCjuXekjgbh8BhgY0X.png",
+      "href": "https://store.playstation.com/en-us/product/UP1491-CUSA03902_00-PS4NUCLEARTHRONE",
+      "uuid": "UP1491-CUSA03902_00-PS4NUCLEARTHRONE",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Neon Chrome",
+    {
+      "name": "Neon Chrome",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1209/i3pUWy779wQaHQj2YkKvSarQ.png",
+      "href": "https://store.playstation.com/en-us/product/UP4403-CUSA03505_00-NEONCHROME000000",
+      "uuid": "UP4403-CUSA03505_00-NEONCHROME000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Tesla vs Lovecraft",
+    {
+      "name": "Tesla vs Lovecraft",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/2411/mCXLo2SCNrETXWAVYPHAMp8D.png",
+      "href": "https://store.playstation.com/en-us/product/UP4403-CUSA10253_00-TESLAVSLOVECRAFT",
+      "uuid": "UP4403-CUSA10253_00-TESLAVSLOVECRAFT",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Ruiner",
+    {
+      "name": "Ruiner",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA08417_00/vRZsINgjS84zWMbNXjSwkXdXpkuNl6RT.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA08417_00-RUINERPS4US00000",
+      "uuid": "UP3643-CUSA08417_00-RUINERPS4US00000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Hong Kong Massacre",
+    {
+      "name": "The Hong Kong Massacre",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2248/CUSA13630_00/9AL9aV5DVDgo69QVcyDUUmvIGyu6fRFe.png",
+      "href": "https://store.playstation.com/en-us/product/UP2248-CUSA13630_00-THKMSIEAFULLPS40",
+      "uuid": "UP2248-CUSA13630_00-THKMSIEAFULLPS40",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Downwell",
+    {
+      "name": "Downwell",
+      "type": "game",
+      "price": "$4.99",
+      "image": "https://image.api.playstation.com/cdn/UP3643/CUSA04550_00/SxJUaKpBADPHAYTsyvKnxMUjW8fhKww9.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA04550_00-DOWNWELLUSP40001",
+      "uuid": "UP3643-CUSA04550_00-DOWNWELLUSP40001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Nex Machina",
+    {
+      "name": "Nex Machina",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2575/CUSA05588_00/LdsY2Yi7KvXfDJJ3l61Dp0KTUAm7HSqO.png",
+      "href": "https://store.playstation.com/en-us/product/UP2575-CUSA05588_00-NEXMACHINAGAMEUS",
+      "uuid": "UP2575-CUSA05588_00-NEXMACHINAGAMEUS",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "RESOGUN",
+    {
+      "name": "RESOGUN",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP9000/CUSA00038_00/FBm6pF4hb5b6oz8GnSTMR49K0xna4Ees.png",
+      "href": "https://store.playstation.com/en-us/product/UP9000-CUSA00038_00-RESOGUN000000002",
+      "uuid": "UP9000-CUSA00038_00-RESOGUN000000002",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Geometry Wars 3: Dimensions Evolved",
+    {
+      "name": "Geometry Wars 3: Dimensions Evolved",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0002/CUSA00755_00/x4c67IQ3yhfZFNJ1t99O95Uiz7Jpe0mN.png",
+      "href": "https://store.playstation.com/en-us/product/UP0002-CUSA00755_00-GEOMETRYWARSNPS4",
+      "uuid": "UP0002-CUSA00755_00-GEOMETRYWARSNPS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Assault Android Cactus",
+    {
+      "name": "Assault Android Cactus",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP1520/CUSA03161_00/3kiBeuVlzHjvz9XTelda9VSaAoOq5uDD.png",
+      "href": "https://store.playstation.com/en-us/product/UP1520-CUSA03161_00-CACTUS0000000001",
+      "uuid": "UP1520-CUSA03161_00-CACTUS0000000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Wizard of Legend",
+    {
+      "name": "Wizard of Legend",
+      "type": "game",
+      "price": "$15.99",
+      "image": "https://image.api.playstation.com/cdn/UP3864/CUSA10927_00/xyCJE0jIUNODKewGrXP4oytlsrkh3dDY.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-CUSA10927_00-WIZARDOFLEGENDUS",
+      "uuid": "UP3864-CUSA10927_00-WIZARDOFLEGENDUS",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Children of Morta",
+    {
+      "name": "Children of Morta",
+      "type": "game",
+      "price": "$21.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307Opvs3MLSa4aK-Vx1FtQjjM1e9FLuGZHST8x5pHchMv0U6nU92iMYlccjkXg3PaDHsQvniJmdj3VOE_C7tsrcSYm0JmD.png",
+      "href": "https://store.playstation.com/en-us/product/UP4361-CUSA10862_00-CHILDRENOFMORTA0",
+      "uuid": "UP4361-CUSA10862_00-CHILDRENOFMORTA0",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Moonlighter",
+    {
+      "name": "Moonlighter",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4361/CUSA10164_00/fE0mNp0f0r1TKB702S77IMzMLYgzuGEd.png",
+      "href": "https://store.playstation.com/en-us/product/UP4361-CUSA10164_00-0000000000000001",
+      "uuid": "UP4361-CUSA10164_00-0000000000000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Cult of the Lamb",
+    {
+      "name": "Cult of the Lamb",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1518/ea3296f59652aea59db01dd6668c93f1dd23102f84d18807.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-PPSA06464_00-6576653892496327",
+      "uuid": "UP3643-PPSA06464_00-6576653892496327",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Dandy Ace",
+    {
+      "name": "Dandy Ace",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2601/24GF8ujpkpfKoheBwXuOgMpD.png",
+      "href": "https://store.playstation.com/en-us/product/UP1685-CUSA27945_00-3534786958507733",
+      "uuid": "UP1685-CUSA27945_00-3534786958507733",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Going Under",
+    {
+      "name": "Going Under",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1114/7dQYlqwdXzOaWtHhDlsh6uwV.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA19106_00-GOINGUNDER000000",
+      "uuid": "UP4064-CUSA19106_00-GOINGUNDER000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Have a Nice Death",
+    {
+      "name": "Have a Nice Death",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2515/3822fb0acec1b56109fbe6f45cf72358f604abe77ce4ce0b.png",
+      "href": "https://store.playstation.com/en-us/product/UP1980-CUSA43437_00-HAVEANICEDEATH00",
+      "uuid": "UP1980-CUSA43437_00-HAVEANICEDEATH00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Curse of the Dead Gods",
+    {
+      "name": "Curse of the Dead Gods",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0815/aAWhf5n1bWisXDLA9c3vV7wJ.png",
+      "href": "https://store.playstation.com/en-us/product/UP4133-CUSA19412_00-0000000CURSEGAME",
+      "uuid": "UP4133-CUSA19412_00-0000000CURSEGAME",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Rogue Legacy",
+    {
+      "name": "Rogue Legacy",
+      "type": "game",
+      "price": "$16.99",
+      "image": "https://image.api.playstation.com/cdn/UP4488/CUSA00629_00/1hrq9GzRzQq8urUu2picls8WibHjfoyK.png",
+      "href": "https://store.playstation.com/en-us/product/UP4488-CUSA00629_00-CDGROGUELEGACY01",
+      "uuid": "UP4488-CUSA00629_00-CDGROGUELEGACY01",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Rogue Legacy 2",
+    {
+      "name": "Rogue Legacy 2",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2315/370f9bc417f347c5e73fbdda450758ea4b04022d234b0e28.png",
+      "href": "https://store.playstation.com/en-us/product/UP4488-PPSA15173_00-0338975894246736",
+      "uuid": "UP4488-PPSA15173_00-0338975894246736",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Flinthook",
+    {
+      "name": "Flinthook",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2114/CUSA07390_00/8uvvLwpNlfYcUVhKQJbKLMDzzbPGIPY1.png",
+      "href": "https://store.playstation.com/en-us/product/UP2114-CUSA07390_00-FLINTHOOKPS4SONY",
+      "uuid": "UP2114-CUSA07390_00-FLINTHOOKPS4SONY",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "20 XX",
+    {
+      "name": "20 XX",
+      "type": "game",
+      "price": "$17.99",
+      "image": "https://image.api.playstation.com/cdn/UP0259/CUSA11056_00/VJ6sbdb18eSxf9pAAvjtXREGmnJ2Yygk.png",
+      "href": "https://store.playstation.com/en-us/product/UP0259-CUSA11056_00-20XX000000000000",
+      "uuid": "UP0259-CUSA11056_00-20XX000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Dungreed",
+    {
+      "name": "Dungreed",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1805/iT9PsfmJ8sGRr0gJfuj7mOYp.png",
+      "href": "https://store.playstation.com/en-us/product/UP2103-CUSA14985_00-DUNGREEDDUNGEONS",
+      "uuid": "UP2103-CUSA14985_00-DUNGREEDDUNGEONS",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Under Mine",
+    {
+      "name": "Under Mine",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1019/ndccd1Ru2oSbNFfQNPy4Bh0S.png",
+      "href": "https://store.playstation.com/en-us/product/UP8029-CUSA27176_00-6419988804087526",
+      "uuid": "UP8029-CUSA27176_00-6419988804087526",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Portal Knights",
+    {
+      "name": "Portal Knights",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4040/CUSA06266_00/p4xRXVbq4KF36C8qAMKE3PJXhvxqV3OO.png",
+      "href": "https://store.playstation.com/en-us/product/UP4040-CUSA06266_00-PORTALKNIGHTS000",
+      "uuid": "UP4040-CUSA06266_00-PORTALKNIGHTS000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Turing Test",
+    {
+      "name": "The Turing Test",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2527/CUSA07026_00/xb8EEeZewoz4SeK0O4rZMqdKuMNSQ6Z5.png",
+      "href": "https://store.playstation.com/en-us/product/UP2527-CUSA07026_00-THETURINGTEST001",
+      "uuid": "UP2527-CUSA07026_00-THETURINGTEST001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Room VR: A Dark Matter",
+    {
+      "name": "The Room VR: A Dark Matter",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0513/27d9a5adce63e22981b9057c9b3841b92377c055c4ad21cc.png",
+      "href": "https://store.playstation.com/en-us/product/UP1198-PPSA13425_00-0719807527267656",
+      "uuid": "UP1198-PPSA13425_00-0719807527267656",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Q.U.B.E. 2",
+    {
+      "name": "Q.U.B.E. 2",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/cdn/UP4660/CUSA11664_00/1PipVUbaT2yXblXwsyGUgXUuvlDr0d27.png",
+      "href": "https://store.playstation.com/en-us/product/UP4660-CUSA11664_00-QUBE2PS4SUBMIT17",
+      "uuid": "UP4660-CUSA11664_00-QUBE2PS4SUBMIT17",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Spectrum Retreat",
+    {
+      "name": "The Spectrum Retreat",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/cdn/UP2070/CUSA11954_00/FufSoleVVHIBIz49M9YtGmjwTuzA808P.png",
+      "href": "https://store.playstation.com/en-us/product/UP2070-CUSA11954_00-0000000000000000",
+      "uuid": "UP2070-CUSA11954_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Superliminal",
+    {
+      "name": "Superliminal",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA19488_00/5/i_fafb8161b93465477b543f2d96835aec423853d5c49d2d2893811396519852aa/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP3126-PPSA06084_00-2911532214834517",
+      "uuid": "UP3126-PPSA06084_00-2911532214834517",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Manifold Garden",
+    {
+      "name": "Manifold Garden",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03091_00/2/i_7f1bf06131040fb607d22b66d166550baab403954cc1c3856a1e48cd8eb6ed47/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP0692-PPSA02778_00-MANIFGARDENNAPS5",
+      "uuid": "UP0692-PPSA02778_00-MANIFGARDENNAPS5",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Maquette",
+    {
+      "name": "Maquette",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2700/BTFUw2KqSEnzsYtqv4GlZhXO.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-CUSA24478_00-MAQUETTESIEA0000",
+      "uuid": "UP2470-CUSA24478_00-MAQUETTESIEA0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Viewfinder",
+    {
+      "name": "Viewfinder",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1711/19e6a1c5304b7a4fa3c03eaa726cad6c336b124359cf590a.png",
+      "href": "https://store.playstation.com/en-us/product/UP5180-CUSA36828_00-VIEWFINDER0004US",
+      "uuid": "UP5180-CUSA36828_00-VIEWFINDER0004US",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "LUMINES REMASTERED",
+    {
+      "name": "LUMINES REMASTERED",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0751/CUSA11624_00/wsdR8eXO5iQ4yyvdKp4ORQpVdL8cunY0.png",
+      "href": "https://store.playstation.com/en-us/product/UP0751-CUSA11624_00-LUMINESREMASTERE",
+      "uuid": "UP0751-CUSA11624_00-LUMINESREMASTERE",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Thumper",
+    {
+      "name": "Thumper",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP1613/CUSA03559_00/sNHnnPtXiKGXd6Ust0olucYxoHPhHUDU.png",
+      "href": "https://store.playstation.com/en-us/product/UP1613-CUSA03559_00-THUMPERPS4FULL00",
+      "uuid": "UP1613-CUSA03559_00-THUMPERPS4FULL00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "FAR: Lone Sails",
+    {
+      "name": "FAR: Lone Sails",
+      "type": "game",
+      "price": "$12.49",
+      "image": "https://image.api.playstation.com/cdn/UP3178/CUSA14846_00/Q6Qcr3C89pTRMZBPNHRf8Lonnl9Onf62.png",
+      "href": "https://store.playstation.com/en-us/product/UP3178-CUSA14846_00-0000000000000000",
+      "uuid": "UP3178-CUSA14846_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "FAR: Changing Tides PS4 & PS5",
+    {
+      "name": "FAR: Changing Tides PS4 & PS5",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2813/Os6biEZBZHzt6GU8qqo5eSMT.png",
+      "href": "https://store.playstation.com/en-us/product/UP2514-PPSA03766_00-FARCHANGINGTIDES",
+      "uuid": "UP2514-PPSA03766_00-FARCHANGINGTIDES",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Pedestrian",
+    {
+      "name": "The Pedestrian",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2617/cLoo6IwNdEoQJ6DbymEJUoPZ.png",
+      "href": "https://store.playstation.com/en-us/product/UP2373-PPSA02408_00-THEPEDESTRIAN001",
+      "uuid": "UP2373-PPSA02408_00-THEPEDESTRIAN001",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Human: Fall Flat PS4 & PS5",
+    {
+      "name": "Human: Fall Flat PS4 & PS5",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2414/cee9b1f4c4e68b0a6a0579eec34888a69a1082194b109a42.png",
+      "href": "https://store.playstation.com/en-us/product/UP4395-PPSA02431_00-HFFGAME000000PS5",
+      "uuid": "UP4395-PPSA02431_00-HFFGAME000000PS5",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Untitled Goose Game",
+    {
+      "name": "Untitled Goose Game",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/0405/GO4TUY9mA2UNJ54R0NPEEEBf.png",
+      "href": "https://store.playstation.com/en-us/product/UP3971-CUSA23079_00-HONKHONKHONKHONK",
+      "uuid": "UP3971-CUSA23079_00-HONKHONKHONKHONK",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Donut County",
+    {
+      "name": "Donut County",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/cdn/UP2470/CUSA10062_00/n2QTGK9FaCToilENMOQFgMDsW6OsrAdh.png",
+      "href": "https://store.playstation.com/en-us/product/UP2470-CUSA10062_00-DONUTSIEA0000000",
+      "uuid": "UP2470-CUSA10062_00-DONUTSIEA0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Katamari Damacy REROLL",
+    {
+      "name": "Katamari Damacy REROLL",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2909/akQL0IQK7rz8kH1sCBrI5Kn9.png",
+      "href": "https://store.playstation.com/en-us/product/UP0700-CUSA24361_00-KMDMCMGMMAINGAME",
+      "uuid": "UP0700-CUSA24361_00-KMDMCMGMMAINGAME",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "WHAT THE GOLF?",
+    {
+      "name": "WHAT THE GOLF?",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2008/bfb34fb6f1ecdbd82ebe6e50681a729493dab4a3353507ef.png",
+      "href": "https://store.playstation.com/en-us/product/UP5577-PPSA08452_00-WHATTHEGOLF00001",
+      "uuid": "UP5577-PPSA08452_00-WHATTHEGOLF00001",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Eternal Cylinder",
+    {
+      "name": "The Eternal Cylinder",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2514/YHDGGSQlnwClmFIUhlfy8zrl.png",
+      "href": "https://store.playstation.com/en-us/product/UP1050-PPSA06368_00-2289808112335141",
+      "uuid": "UP1050-PPSA06368_00-2289808112335141",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Everything",
+    {
+      "name": "Everything",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2397/CUSA05962_00/0fqreFAWwp7VRiXY5rZG6N3sIcexc0Pc.png",
+      "href": "https://store.playstation.com/en-us/product/UP2397-CUSA05962_00-EVERYTHINGPS4000",
+      "uuid": "UP2397-CUSA05962_00-EVERYTHINGPS4000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "HUMANITY",
+    {
+      "name": "HUMANITY",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1423/ceiwbi2grLMGYXWlZCduDvuI.png",
+      "href": "https://store.playstation.com/en-us/product/UP0751-CUSA14150_00-HUMANITYGAME0000",
+      "uuid": "UP0751-CUSA14150_00-HUMANITYGAME0000",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "This is the Police",
+    {
+      "name": "This is the Police",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4389/CUSA05852_00/fVNCvFApzvD9y8e5VnXe0cIGC224l7gj.png",
+      "href": "https://store.playstation.com/en-us/product/UP4389-CUSA05852_00-THISISTHEPO00US1",
+      "uuid": "UP4389-CUSA05852_00-THISISTHEPO00US1",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "This Is the Police 2",
+    {
+      "name": "This Is the Police 2",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/cdn/UP4389/CUSA11626_00/PeZpQjjZzYzgRGZANh6Ylsnp8vyzS0Mi.png",
+      "href": "https://store.playstation.com/en-us/product/UP4389-CUSA11626_00-THISISTHEPO2US01",
+      "uuid": "UP4389-CUSA11626_00-THISISTHEPO2US01",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Overland",
+    {
+      "name": "Overland",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14518_00/1/i_ec5d43bae86084d6074cefec6ac7cd81d0eab47b535df7cb284469e77cb9f688/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP0406-PPSA05490_00-6433308712926826",
+      "uuid": "UP0406-PPSA05490_00-6433308712926826",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Escapists",
+    {
+      "name": "The Escapists",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4064/CUSA01880_00/swbGFmw0LslUlOsfLs38svWnYrOtG1FS.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA01880_00-THEESCAPISTS0000",
+      "uuid": "UP4064-CUSA01880_00-THEESCAPISTS0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Escapists 2",
+    {
+      "name": "The Escapists 2",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4064/CUSA06267_00/WV2Dk3uVNzWowKKmHe9LIn35e0mM7bxC.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA06267_00-THEESCAPISTS2000",
+      "uuid": "UP4064-CUSA06267_00-THEESCAPISTS2000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Mini Metro",
+    {
+      "name": "Mini Metro",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307F9pIXpIbdLhZ4oxrAvw-mYozgKJ0z-TWHfrS-OY_XpcuK395aNZqyt3cF60TI4vcMGvZffYp1puqZB7HtK8pEwLl0aT.png",
+      "href": "https://store.playstation.com/en-us/product/UP0551-CUSA14863_00-MINIMETRO00001NA",
+      "uuid": "UP0551-CUSA14863_00-MINIMETRO00001NA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "UNRAILED!",
+    {
+      "name": "UNRAILED!",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2316/pVwQbyNp3aEupkgvQLr5Y4dt.png",
+      "href": "https://store.playstation.com/en-us/product/UP1440-CUSA20431_00-DAENAUNRAILED001",
+      "uuid": "UP1440-CUSA20431_00-DAENAUNRAILED001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Keep Talking and Nobody Explodes",
+    {
+      "name": "Keep Talking and Nobody Explodes",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0637/CUSA06477_00/lPVJmAOss7IL5OJ0EAHZMoeh0T0VbDY8.png",
+      "href": "https://store.playstation.com/en-us/product/UP0637-CUSA06477_00-KTANEBOMBGAME001",
+      "uuid": "UP0637-CUSA06477_00-KTANEBOMBGAME001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Ultimate Chicken Horse",
+    {
+      "name": "Ultimate Chicken Horse",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP1665/CUSA08580_00/Irni9mvM9jo6gqL6fCd9dMITDZGOY3GV.png",
+      "href": "https://store.playstation.com/en-us/product/UP1665-CUSA08580_00-CLEVENDEAVUCH000",
+      "uuid": "UP1665-CUSA08580_00-CLEVENDEAVUCH000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Gang Beasts",
+    {
+      "name": "Gang Beasts",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202012/0912/DaMDXP75LV9pti5nA2IALzhO.png",
+      "href": "https://store.playstation.com/en-us/product/UP2154-CUSA04794_00-GANGBEASTSPS04NA",
+      "uuid": "UP2154-CUSA04794_00-GANGBEASTSPS04NA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Castle Crashers Remastered",
+    {
+      "name": "Castle Crashers Remastered",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/113074Vkl96ZvqHrSjBTWNaDTiW8NseQkbb8DXD-3YK6okvE2AGl1-evtpyI7VP_QVcLZKNFp0Ea2GebTiHHaz1EvBsKAZAm.png",
+      "href": "https://store.playstation.com/en-us/product/UP2015-CUSA14409_00-CASTLECRASHERSNA",
+      "uuid": "UP2015-CUSA14409_00-CASTLECRASHERSNA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Lovers in a Dangerous Spacetime",
+    {
+      "name": "Lovers in a Dangerous Spacetime",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP0045/CUSA04075_00/FGiihk1j5ZwgjDRTrKY90Fwyw7Ai3eD7.png",
+      "href": "https://store.playstation.com/en-us/product/UP0045-CUSA04075_00-LOVERS0000000000",
+      "uuid": "UP0045-CUSA04075_00-LOVERS0000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "TowerFall Ascension",
+    {
+      "name": "TowerFall Ascension",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2120/CUSA00466_00/pvAvAEN4XrOr5tNSnmZJnmk6fXVxk2rH.png",
+      "href": "https://store.playstation.com/en-us/product/UP2120-CUSA00466_00-0000TOWERFALLPS4",
+      "uuid": "UP2120-CUSA00466_00-0000TOWERFALLPS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Nidhogg 2",
+    {
+      "name": "Nidhogg 2",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2143/CUSA07640_00/hRGv8uyxa1sBDMtMmMFGL5UXZQeajObx.png",
+      "href": "https://store.playstation.com/en-us/product/UP2143-CUSA07640_00-NIDHOGG2GAMEPLAY",
+      "uuid": "UP2143-CUSA07640_00-NIDHOGG2GAMEPLAY",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Duck Game",
+    {
+      "name": "Duck Game",
+      "type": "game",
+      "price": "$12.99",
+      "image": "https://image.api.playstation.com/cdn/UP0151/CUSA03407_00/MsPI2pGBYKRk2juRxOpfslGlCvy1pwEr.png",
+      "href": "https://store.playstation.com/en-us/product/UP0151-CUSA03407_00-DUCKGAME00000000",
+      "uuid": "UP0151-CUSA03407_00-DUCKGAME00000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Boomerang Fu",
+    {
+      "name": "Boomerang Fu",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202112/1710/kVNpJY6Em8H6A79llTsyEoV8.png",
+      "href": "https://store.playstation.com/en-us/product/UP5812-CUSA29290_00-4435287210135284",
+      "uuid": "UP5812-CUSA29290_00-4435287210135284",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Tools Up!",
+    {
+      "name": "Tools Up!",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2407/q3kWJWKL4BVBcDNP5tN2Leli.png",
+      "href": "https://store.playstation.com/en-us/product/UP5580-CUSA17746_00-TOOLSUP000000000",
+      "uuid": "UP5580-CUSA17746_00-TOOLSUP000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Key We",
+    {
+      "name": "Key We",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1912/WMXaapbdo2OiZP2zJ1sDab3n.png",
+      "href": "https://store.playstation.com/en-us/product/UP2660-PPSA02210_00-KEYWEFULLGAME001",
+      "uuid": "UP2660-PPSA02210_00-KEYWEFULLGAME001",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Wild at Heart",
+    {
+      "name": "The Wild at Heart",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2922/5NVAbVc47bWZYro0NY1H0RWR.png",
+      "href": "https://store.playstation.com/en-us/product/UP3864-CUSA28245_00-5QRZFI14VTWAHA00",
+      "uuid": "UP3864-CUSA28245_00-5QRZFI14VTWAHA00",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Last Campfire",
+    {
+      "name": "The Last Campfire",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1618/lpErhvvky9Nna2kHVTTGRye7.png",
+      "href": "https://store.playstation.com/en-us/product/UP2034-CUSA19507_00-CAMPFIREHG000001",
+      "uuid": "UP2034-CUSA19507_00-CAMPFIREHG000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Lost in Random PS4 & PS5",
+    {
+      "name": "Lost in Random PS4 & PS5",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202108/2712/y72FMP1NCv0WgCN193kKhD4Y.png",
+      "href": "https://store.playstation.com/en-us/product/UP0006-PPSA01693_00-LOSTINRANDOMGAME",
+      "uuid": "UP0006-PPSA01693_00-LOSTINRANDOMGAME",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Nobody Saves the World",
+    {
+      "name": "Nobody Saves the World",
+      "type": "game",
+      "price": "$24.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1614/mdVkGjAllj9HD6qiM6gVwsts.png",
+      "href": "https://store.playstation.com/en-us/product/UP2045-PPSA03332_00-6824837102800807",
+      "uuid": "UP2045-PPSA03332_00-6824837102800807",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Forgotten City",
+    {
+      "name": "The Forgotten City",
+      "type": "game",
+      "price": "$29.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3010/Sgq7l1vKwsYclxIkaEnYyF4n.png",
+      "href": "https://store.playstation.com/en-us/product/UP1309-PPSA03026_00-THEFORGOTTENCITY",
+      "uuid": "UP1309-PPSA03026_00-THEFORGOTTENCITY",
+      "platforms": [
+        "PS4",
+        "PS5"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Sexy Brutale",
+    {
+      "name": "The Sexy Brutale",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP3113/CUSA07134_00/tKrAjycZmVxagEb0LIJve00y3zuynlv3.png",
+      "href": "https://store.playstation.com/en-us/product/UP3113-CUSA07134_00-THESEXYBRUTALE01",
+      "uuid": "UP3113-CUSA07134_00-THESEXYBRUTALE01",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Stories Untold",
+    {
+      "name": "Stories Untold",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2815/BN3c5PyWJJxA3oZXlzAojSb2.png",
+      "href": "https://store.playstation.com/en-us/product/UP3643-CUSA17597_00-STORIESUNTOLDUS0",
+      "uuid": "UP3643-CUSA17597_00-STORIESUNTOLDUS0",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Long Reach",
+    {
+      "name": "The Long Reach",
+      "type": "game",
+      "price": "$14.49",
+      "image": "https://image.api.playstation.com/cdn/UP1260/CUSA08983_00/wsTWesZGb9GHD37hDDErSyr3GVnpmkHP.png",
+      "href": "https://store.playstation.com/en-us/product/UP1260-CUSA08983_00-THELONGREACHUS01",
+      "uuid": "UP1260-CUSA08983_00-THELONGREACHUS01",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Station",
+    {
+      "name": "The Station",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP3926/CUSA10480_00/T81iFsvv8i7s004ZKiCWuDRtrsoONVlV.png",
+      "href": "https://store.playstation.com/en-us/product/UP3926-CUSA10480_00-0000000000000000",
+      "uuid": "UP3926-CUSA10480_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Virginia",
+    {
+      "name": "Virginia",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP4040/CUSA03127_00/36MRTlRrFEvJP24IPUYzjKsvws1dCFvK.png",
+      "href": "https://store.playstation.com/en-us/product/UP4040-CUSA03127_00-VIRGINIA00000001",
+      "uuid": "UP4040-CUSA03127_00-VIRGINIA00000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The First Tree",
+    {
+      "name": "The First Tree",
+      "type": "game",
+      "price": "$9.99",
+      "image": "https://image.api.playstation.com/cdn/UP4699/CUSA11699_00/drgQyzTPbPfCen9vq7AFiS0EocHHu00y.png",
+      "href": "https://store.playstation.com/en-us/product/UP4699-CUSA11699_00-THEFIRSTTREEGAME",
+      "uuid": "UP4699-CUSA11699_00-THEFIRSTTREEGAME",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Mooseman",
+    {
+      "name": "The Mooseman",
+      "type": "game",
+      "price": "$6.99",
+      "image": "https://image.api.playstation.com/cdn/UP1675/CUSA12159_00/A4mXyUZWudRfBNYGgidPPri6WsWIu3Km.png",
+      "href": "https://store.playstation.com/en-us/product/UP1675-CUSA12159_00-SYPS4THEMOOSEMAN",
+      "uuid": "UP1675-CUSA12159_00-SYPS4THEMOOSEMAN",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Old Man's Journey",
+    {
+      "name": "Old Man's Journey",
+      "type": "game",
+      "price": "$11.99",
+      "image": "https://image.api.playstation.com/cdn/UP3141/CUSA12206_00/kHcNgaGIy5obhoNe0trtLQOI8meyAef2.png",
+      "href": "https://store.playstation.com/en-us/product/UP3141-CUSA12206_00-USOLDMANSJOURNEY",
+      "uuid": "UP3141-CUSA12206_00-USOLDMANSJOURNEY",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Arise: A simple story",
+    {
+      "name": "Arise: A simple story",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/113074NhX6W7HTTyt6844JZqUGJNrZkDJFrnx8P0Csgcru5UN8yVwzdMz-sTgR7IzGyRC_w7mad77Kp9zVJWQshsuxET-kOp.png",
+      "href": "https://store.playstation.com/en-us/product/UP3050-CUSA12755_00-ARISETHEGAME00NA",
+      "uuid": "UP3050-CUSA12755_00-ARISETHEGAME00NA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Etherborn",
+    {
+      "name": "Etherborn",
+      "type": "game",
+      "price": "$16.99",
+      "image": "https://image.api.playstation.com/cdn/UP2929/CUSA15516_00/EzeyCSIqWfIIbZ1bDNKivK0zS89NgLF4.png",
+      "href": "https://store.playstation.com/en-us/product/UP2929-CUSA15516_00-ETHERBORN0000001",
+      "uuid": "UP2929-CUSA15516_00-ETHERBORN0000001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Degrees of Separation",
+    {
+      "name": "Degrees of Separation",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4735/CUSA13083_00/CRV0fgNfiKYhult0oMYLXcfmuQxkmvfM.png",
+      "href": "https://store.playstation.com/en-us/product/UP4735-CUSA13083_00-0000000000000000",
+      "uuid": "UP4735-CUSA13083_00-0000000000000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Never Alone (Kisima Ingitchuna)",
+    {
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2159/CUSA01305_00/ZgwOkB3FhRI3eag3cMgZeQ3Uny1glAKn.png",
+      "href": "https://store.playstation.com/en-us/product/UP2159-CUSA01305_00-NEVERALONEPS4000",
+      "uuid": "UP2159-CUSA01305_00-NEVERALONEPS4000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Spirit of the North",
+    {
+      "name": "Spirit of the North",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307u6P9OMPwRK-HTo_zU6IxE9nNRQ7Ih27RLhI8Wpo1rVwG0L1ZZws6a5BN2LN5yn7ijwxBTwoKYA3zdsHAzZoXaEh4QPZ.png",
+      "href": "https://store.playstation.com/en-us/product/UP3899-CUSA13411_00-SPIRITNORTH00001",
+      "uuid": "UP3899-CUSA13411_00-SPIRITNORTH00001",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Fe",
+    {
+      "name": "Fe",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0006/CUSA09058_00/QuPGus5tz3s9CLStgfXb2sVAMMfpwHf3.png",
+      "href": "https://store.playstation.com/en-us/product/UP0006-CUSA09058_00-ZOINKGAMESFE0000",
+      "uuid": "UP0006-CUSA09058_00-ZOINKGAMESFE0000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Sheltered",
+    {
+      "name": "Sheltered",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP4064/CUSA04296_00/hR5Vxlr1RNabMCiVxt0X2vfyplLABnxU.png",
+      "href": "https://store.playstation.com/en-us/product/UP4064-CUSA04296_00-SHELTERED0000000",
+      "uuid": "UP4064-CUSA04296_00-SHELTERED0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Chasm",
+    {
+      "name": "Chasm",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP2151/CUSA01273_00/u9fFH03JIeqSlZXCkQHXJS8IkzJF71Ht.png",
+      "href": "https://store.playstation.com/en-us/product/UP2151-CUSA01273_00-000CHASM00000PS4",
+      "uuid": "UP2151-CUSA01273_00-000CHASM00000PS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Chariot",
+    {
+      "name": "Chariot",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP4096/CUSA00739_00/SvH0xcAxmoELBtxHmMftUNi6iA2zhI8a.png",
+      "href": "https://store.playstation.com/en-us/product/UP4096-CUSA00739_00-CHARIOTUS0000000",
+      "uuid": "UP4096-CUSA00739_00-CHARIOTUS0000000",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Creaks",
+    {
+      "name": "Creaks",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202603/2416/b189a29a4a97f3b60fb3652cad07917f1673d1e5765c5f8b.png",
+      "href": "https://store.playstation.com/en-us/product/UP4360-CUSA18647_00-CREAKSPS400001US",
+      "uuid": "UP4360-CUSA18647_00-CREAKSPS400001US",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Machinarium",
+    {
+      "name": "Machinarium",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP4360/CUSA02608_00/N4O4O40BNaI8rm6rh4yOQIsNgNK9oGhd.png",
+      "href": "https://store.playstation.com/en-us/product/UP4360-CUSA02608_00-MACHINARIUMPS4FG",
+      "uuid": "UP4360-CUSA02608_00-MACHINARIUMPS4FG",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Thimbleweed Park",
+    {
+      "name": "Thimbleweed Park",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP3808/CUSA08960_00/8tHSCRHmDu2oRIKQihOwBF80mkNG0oMo.png",
+      "href": "https://store.playstation.com/en-us/product/UP3808-CUSA08960_00-THIMBLEWEEDPARK0",
+      "uuid": "UP3808-CUSA08960_00-THIMBLEWEEDPARK0",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Full Throttle Remastered",
+    {
+      "name": "Full Throttle Remastered",
+      "type": "game",
+      "price": "Unavailable",
+      "image": "https://image.api.playstation.com/cdn/UP2154/CUSA06644_00/evG8Ps4Y3V0IqDeWIkWQ8bDvYT8MBxwB.png",
+      "href": "https://store.playstation.com/en-us/product/UP2154-CUSA06644_00-FULLTHROTTLE0PS4",
+      "uuid": "UP2154-CUSA06644_00-FULLTHROTTLE0PS4",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Grim Fandango Remastered",
+    {
+      "name": "Grim Fandango Remastered",
+      "type": "game",
+      "price": "Unavailable",
+      "image": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA01319_00/1/i_fc5427ee4b05b06bca78c80625920183a7df4166b2b937daa19335d1dae8ddc8/i/icon0.png",
+      "href": "https://store.playstation.com/en-us/product/UP2154-CUSA01319_00-GRIMFANDANGOPS04",
+      "uuid": "UP2154-CUSA01319_00-GRIMFANDANGOPS04",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Broken Age",
+    {
+      "name": "Broken Age",
+      "type": "game",
+      "price": "$14.99",
+      "image": "https://image.api.playstation.com/cdn/UP2154/CUSA01990_00/us0Ab6gxhyHAuVG6PhI0v3E4qqNFwBCC.png",
+      "href": "https://store.playstation.com/en-us/product/UP2154-CUSA01990_00-BROKENAGEPLAYS04",
+      "uuid": "UP2154-CUSA01990_00-BROKENAGEPLAYS04",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Darkside Detective",
+    {
+      "name": "The Darkside Detective",
+      "type": "game",
+      "price": "Game Trial",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2610/y5TnjDQNpFeXgizGDtpm3URU.png",
+      "href": "https://store.playstation.com/en-us/product/UP3385-CUSA26042_00-DARKSIDE1NAPS400",
+      "uuid": "UP3385-CUSA26042_00-DARKSIDE1NAPS400",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "The Darkside Detective: A Fumble in the Dark",
+    {
+      "name": "The Darkside Detective: A Fumble in the Dark",
+      "type": "game",
+      "price": "Game Trial",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2906/xTUoUtDEtsaks06kMecYLWOX.png",
+      "href": "https://store.playstation.com/en-us/product/UP3385-CUSA26051_00-DARKSIDE2NAPS400",
+      "uuid": "UP3385-CUSA26051_00-DARKSIDE2NAPS400",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "Tangle Tower",
+    {
+      "name": "Tangle Tower",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1714/Q8r1uhnZWj55g38Jm3nqlCZn.png",
+      "href": "https://store.playstation.com/en-us/product/UP6093-CUSA27602_00-0000000000000002",
+      "uuid": "UP6093-CUSA27602_00-0000000000000002",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ],
+  [
+    "MURDERED: SOUL SUSPECT '",
+    {
+      "name": "MURDERED: SOUL SUSPECT '",
+      "type": "game",
+      "price": "$19.99",
+      "image": "https://image.api.playstation.com/cdn/UP0082/CUSA00343_00/1I7FhQG4gyptdYk2xX9T4ZIlodZ9ZOMO.png",
+      "href": "https://store.playstation.com/en-us/product/UP0082-CUSA00343_00-MURDEREDSOULSCEA",
+      "uuid": "UP0082-CUSA00343_00-MURDEREDSOULSCEA",
+      "platforms": [
+        "PS4"
+      ],
+      "rating": "Full Game"
+    }
+  ]
+]
